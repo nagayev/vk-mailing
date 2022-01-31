@@ -21,11 +21,10 @@ Create file `config.json` with the following content:
 "login":"YOUR_LOGIN",
 "password":"YOUR_PASSWORD",
 "message":"MESSAGE",
-"ids":[FIRST_ID,SECOND_ID,...]
+"ids":[FIRST_ID,SECOND_ID]
 }
-
 ```
 
-##LICENSE
+## LICENSE
 
 MIT. See license file.
